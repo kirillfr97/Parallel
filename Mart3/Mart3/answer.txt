@@ -1,0 +1,4 @@
+Etalon Sum: 17179869184.000000
+Etalon Norm: 17.179869
+Parallel Sum: 25769803776.000000
+Parallel Norm: 25.769804
