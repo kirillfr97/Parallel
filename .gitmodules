@@ -1,0 +1,3 @@
+[submodule "Mart3/lib/eigen"]
+	path = Mart3/lib/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror
